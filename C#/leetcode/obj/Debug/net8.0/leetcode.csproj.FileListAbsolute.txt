@@ -1,0 +1,14 @@
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.AssemblyInfoInputs.cache
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.AssemblyInfo.cs
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.csproj.CoreCompileInputs.cache
+C:\Users\Nirav\source\repos\leetcode\bin\Debug\net8.0\leetcode.exe
+C:\Users\Nirav\source\repos\leetcode\bin\Debug\net8.0\leetcode.deps.json
+C:\Users\Nirav\source\repos\leetcode\bin\Debug\net8.0\leetcode.runtimeconfig.json
+C:\Users\Nirav\source\repos\leetcode\bin\Debug\net8.0\leetcode.dll
+C:\Users\Nirav\source\repos\leetcode\bin\Debug\net8.0\leetcode.pdb
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.dll
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\refint\leetcode.dll
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.pdb
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\leetcode.genruntimeconfig.cache
+C:\Users\Nirav\source\repos\leetcode\obj\Debug\net8.0\ref\leetcode.dll
