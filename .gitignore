@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProblemSolving/v17
+/C#/leetcode/.vs/leetcode/CopilotIndices/17.14.734.62261
+/C#/leetcode/.vs/leetcode/DesignTimeBuild
+/C#/leetcode/.vs/leetcode/FileContentIndex
+/C#/leetcode/obj/Debug/net8.0/leetcode.AssemblyInfo.cs
+*.cache
+/C#/leetcode/obj/leetcode.csproj.nuget.dgspec.json
+/C#/leetcode/obj/leetcode.csproj.nuget.g.props
+/C#/leetcode/obj/project.assets.json
+/C#/leetcode/obj/Debug/net8.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
